@@ -14,7 +14,7 @@ This is an application to hide the image into an image and read it out depended 
 **How to Use**
 
 To Encode image:
-    <program.py> -e <mesage in string> -i <image in jpg> -o <export image in png>
+    <program.py> -e <<mesage in string> -i <image in jpg> -o <export image in png>
     
 To Decode image:
     <program.py> -d <encoded image.png>
